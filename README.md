@@ -1,59 +1,35 @@
-# Hi there, I'm Patricia 👋  
-🎓 Computer Science Student at USEK  
-🔐 Aspiring to become a Cybersecurity Expert | CTF Participant  
-💡 Fast learner • Detail-oriented • Motivated
+<h1 align="center">Hi 👋, I'm Patricia Clarji</h1>
+<h3 align="center">I am a first-year CS student who loves building websites and apps. Always learning and working on real projects!</h3>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1quost" alt="1quost" /></a> </p>
 
-## 🚀 About Me  
-I'm a first-year CS student passionate about cybersecurity, software development, and building real-world projects. I'm currently gaining experience through university projects, SE Factory training, CTFs, and hands-on learning. I can build website using front-end (HTML, CSS, JS), and app using JavaFX.
+- 🔭 I’m currently working on **CodeAlfa_StudentGrades**
 
----
+- 🌱 I’m currently learning **JavaFX, front-end technologies (HTML, CSS, JavaScript), and cybersecurity basics**
 
-## 🛠️ Technologies & Tools  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
-![JavaFX](https://img.shields.io/badge/-JavaFX-0095D5?style=flat&logo=java&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)  
+- 👯 I’m looking to collaborate on **software development projects, particularly in web and desktop applications.**
 
----
+- 🤝 I’m looking for help with **enhancing my coding skills and gaining practical experience in advanced programming concepts.**
 
-## 📁 Featured Projects  
-- 🔐 **Zero_To_Hero** – JavaFX Quiz App with categories, difficulty levels, and interactive GUI  
-- 🍽️ **Restaurant Management System** – Java desktop app with order, menu, and billing logic  
-- 👤 **Employee Manager** – JavaFX login app with tabbed data entry and employee table  
-- 🌐 **Student Website** – Multimedia academic website with forms, login, shop, and schedule  
-- 🧠 **Cybersecurity Awareness Video** – Presentation and materials to promote security best practices
+- 👨‍💻 All of my projects are available at [https://github.com/1Quost](https://github.com/1Quost)
 
----
+- 💬 Ask me about **JavaFx,Java, HTML or CSS**
 
-## 🎯 Goals  
-- Finish CS BS at USEK (2027)  
-- Get a Master degree in CyberSecurity
-- Gain the max possible experience.
-- Get certified in cybersecurity (CEH, CompTIA, etc.)  
-- Join and win more CTFs  
-- Intern/work at Apple, Google, OpenAI, or X  
-- Build and lead my own cybersecurity company
+- 📫 How to reach me **clarjihadipatricia@gmail.com**
 
----
+- ⚡ Fun fact **I enjoy participating in Capture The Flag (CTF) competitions to sharpen my problem-solving skills.**
 
-👀 I’m interested in cybersecurity, ethical hacking, web develloper, and building creative software.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/patricia clarji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patricia clarji" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/1quost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1quost" height="30" width="40" /></a>
+</p>
 
-🌱 I’m currently learning JavaFX, PHP, MySQL,  and cybersecurity fundamentals
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-💞️ I’m looking to collaborate on CTFs, open-source security tools, interesting project, and educational apps
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1quost&show_icons=true&locale=en&layout=compact" alt="1quost" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1quost&show_icons=true&locale=en" alt="1quost" /></p>
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricia-clarji-7056a8347/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:patriciahadiclarji@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/1Quost)
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1quost&" alt="1quost" /></p>
