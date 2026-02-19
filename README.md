@@ -3,21 +3,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1quost" alt="1quost" /></a> </p>
 
-- 🔭 I’m currently working on **CodeAlfa_StudentGrades**
+- 🔭 I’m currently working on **E-commerce Website using Angular framework**
 
-- 🌱 I’m currently learning **JavaFX, front-end technologies (HTML, CSS, JavaScript), and cybersecurity basics**
-
-- 👯 I’m looking to collaborate on **software development projects, particularly in web and desktop applications.**
-
-- 🤝 I’m looking for help with **enhancing my coding skills and gaining practical experience in advanced programming concepts.**
+- 🌱 I’m currently learning **Angular , typescript , SCSS , NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/1Quost](https://github.com/1Quost)
 
-- 💬 Ask me about **JavaFx,Java, HTML or CSS**
-
 - 📫 How to reach me **clarjihadipatricia@gmail.com**
 
-- ⚡ Fun fact **I enjoy participating in Capture The Flag (CTF) competitions to sharpen my problem-solving skills.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
